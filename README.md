@@ -1,17 +1,6 @@
 <div align="center">
-
 # 🟣 PurpleLab AI
-
-### AI-Powered Purple Team Training Platform for Isolated Lab Environments
-
-Simulate attacker behavior over SSH, watch it map live to **MITRE ATT&CK**,
-and get AI-generated detection & mitigation guidance — attacker and
-defender visibility, side by side, in a sandbox you fully control.
-
-<br/>
-
-<sub><strong>TECH STACK</strong></sub>
-<br/>
+**An educational Purple Team cybersecurity platform for authorized, isolated virtual lab environments.**
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)
@@ -19,20 +8,13 @@ defender visibility, side by side, in a sandbox you fully control.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-DB-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Paramiko](https://img.shields.io/badge/Paramiko-SSH-4B8BBE?style=flat)
-
-<sub><strong>SECURITY FRAMEWORK & PROJECT INFO</strong></sub>
-<br/>
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-D72638?style=flat)
 ![License MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)
 ![Status](https://img.shields.io/badge/status-lab--validated-brightgreen?style=flat)
-
-<br/>
-
-**[Features](#-feature-overview) &nbsp;·&nbsp; [Screenshots](#-screenshots) &nbsp;·&nbsp; [Quick Start](#-quick-start-current-setup-kali-only) &nbsp;·&nbsp; [Architecture](#-architecture)**
-
 </div>
-
 ---
+
+can you chnge this section to more attractive?
 
 ## 🔎 What is PurpleLab AI?
 
