@@ -14,8 +14,6 @@
 </div>
 ---
 
-can you chnge this section to more attractive?
-
 ## 🔎 What is PurpleLab AI?
 
 PurpleLab AI drives predefined, reviewed training scenarios — SSH authentication
